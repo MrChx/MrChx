@@ -46,6 +46,6 @@
 <h2 align="center">MrChx Playlist</h2>
 <div align="center">
   <a href="https://open.spotify.com/playlist/3KE2e3NJu4UENcjeqY3XCs?si=e7e4hCDBT767vgk2cfI2hA&pi=a-Me1l_yxVTJ-8">
-    <img src="https://open.spotify.com/album/0lZ3zTIL6qQCwhcR7aBLPm?si=sokWco4wRFWHZv75-484yQ" alt="Spotify Recently Played" />
+    <img src="github.png" alt="Spotify Recently Played" />
   </a>
 </div>
