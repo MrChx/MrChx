@@ -3,7 +3,7 @@
 
   <h2>A Bit About Me</h2>
   <p>🧑🏻 I am an informatics student</p>
-  <p>💻 Currently focusing on <strong>Backend Development</strong></p>
+  <p>💻 I am a software developer who focuses on the Backend </strong></p>
   <p> Currently I am implementing my skills in internships and freelance</p>
 </div>
 
