@@ -12,7 +12,7 @@
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,python,php,express,flask,laravel,,mysql,mongodb,postgresql,postman,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=,nodejs,python,php,express,flask,laravel,,,,mysql,mongodb,postgresql,postman&perline=8" />
 </p>
 
 <br>
