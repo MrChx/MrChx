@@ -12,7 +12,15 @@
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,nodejs,python,php,express,flask,laravel,,,,mysql,mongodb,postgresql,postman&perline=8" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 <br>
@@ -21,13 +29,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/acha-qilal" target="_blank" title="Acha Qilal">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/achaqilal" target="_blank" title="@achaqilal">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/playlist/3KE2e3NJu4UENcjeqY3XCs?si=e7e4hCDBT767vgk2cfI2hA&pi=a-Me1l_yxVTJ-8" target="_blank" title="@achaqilal">
-    <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify" />
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" />
   </a>
 </p>
 
