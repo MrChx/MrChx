@@ -18,7 +18,6 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
@@ -44,13 +43,11 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img alt="MrChx Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChx&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
+  <img alt="MrChx Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChx&theme=onedark&show_icons=true&hide_border=true&layout=compact&title_color=80d0c7&text_color=48a9a6&bg_color=0d1117&icon_color=2a9d8f" />
   <br />
-  <img alt="MrChx GitHub Streak" src="https://streak-stats.demolab.com?user=MrChx&theme=onedark&hide_border=true" />
-  <img alt="MrChx Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MrChx&theme=one-dark&radius=10&hide_border=true&area=true&title_color=e4bf7a&color=8eb573&point=df6d74" />
+  <img alt="MrChx GitHub Streak" src="https://streak-stats.demolab.com?user=MrChx&theme=onedark&hide_border=true&ring=206a8b&fire=2a9d8f&currStreakLabel=48a9a6&currStreakNum=80d0c7&sideNums=80d0c7&sideLabels=48a9a6&dates=2a9d8f" />
+   <img alt="MrChx Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MrChx&theme=one-dark&radius=10&hide_border=true&area=true&title_color=80d0c7&color=48a9a6&point=2a9d8f&bg_color=0d1117&line=2a9d8f" />
 </p>
-
-<br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Principles!  
 
@@ -61,21 +58,11 @@ def life_principle():
         "If you're mocked, prove them wrong. 💪",
         "If you succeed, stay humble. 🌱",
     ]
-    
-    banner = """
-    *************************************************
-    *                                               *
-    *         🌟 Life Principles to Live By 🌟       *
-    *                                               *
-    *************************************************
-    """
-    print(banner)
+
     for i, principle in enumerate(principles, start=1):
         print(f"{i}. {principle}")
 
     print("\n💬 Remember: Your insults don't make me fall !!")
 
 life_principle()
-
-}
 ```
